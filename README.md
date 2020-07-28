@@ -1,2 +1,2 @@
-# coviddata_Swiss
+# Covid_Data_Swiss
 data from BAG
